@@ -15,7 +15,7 @@ setuptools.setup(
     ],
     # 依赖模块
     install_requires=[
-        'torch==1.10.2',
+        'torc>=1.10.2',
         'numpy==1.21.6',
         'networkx==2.6.3',
         'scipy==1.5.0',
