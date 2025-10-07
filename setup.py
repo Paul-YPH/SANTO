@@ -26,6 +26,7 @@ setuptools.setup(
         'pandas>=1.3.5',
         'ruptures==1.1.8',
         'harmonypy==0.0.6'
+        'easydict==1.13'
     ],
     python_requires='>=3.7',
 )
