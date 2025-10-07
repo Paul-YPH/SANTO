@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="SANTO",
+    name="santo",
     version="0.0.2",
     author="Haoyang Li",
     author_email="lihy1995@gmail.com",
