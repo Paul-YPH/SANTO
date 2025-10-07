@@ -15,15 +15,15 @@ setuptools.setup(
     ],
     # 依赖模块
     install_requires=[
-        'torch>=1.10.2',
-        'numpy==1.21.6',
+        'torc>=1.10.2',
+        'numpy>=1.21.6',
         'networkx==2.6.3',
-        'scipy==1.5.0',
+        'scipy>=1.5.0',
         'tqdm==4.65.0',
         'scanpy==1.9.3',
         'anndata==0.8.0',
         'glob2==0.7',
-        'pandas==1.3.5',
+        'pandas>=1.3.5',
         'ruptures==1.1.8',
         'harmonypy==0.0.6'
     ],
