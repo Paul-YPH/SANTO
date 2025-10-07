@@ -19,7 +19,7 @@ setuptools.setup(
         'numpy>=1.21.6',
         'networkx==2.6.3',
         'scipy>=1.5.0',
-        'tqdm==4.65.0',
+        'tqdm==4.67.1',
         'scanpy==1.9.3',
         'anndata==0.8.0',
         'glob2==0.7',
